@@ -19,7 +19,7 @@ npm -v
 
 You can run the program by just simply type this command in terminal
 ```
-npm run dev
+npm start
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -30,8 +30,8 @@ This web will soon be fully published on [here](https://www.hostinger.co.id/web-
 
 ## Built With
 
-* [React](https://react.dev/) - The web framework used
-* [Tailwind](https://tailwindcss.com/) 
+* [React](https://react.dev/) - The Web Framework used
+* [Tailwind](https://tailwindcss.com/) - CSS Framework used
 
 ## Contributing
 
@@ -43,7 +43,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Maulana Imamul Khaq** - *Initial work* - [maulana1k](https://github.com/maulana1k)
-* **Adhwa Moyafi Hartoyo** - *Initial work* - [Rollerturtle](https://github.com/Rollerturtle)
+* **Maulana Imamul Khaq** - *H1D021058* - [maulana1k](https://github.com/maulana1k)
+* **Adhwa Moyafi Hartoyo** - *H1D021069* - [Rollerturtle](https://github.com/Rollerturtle)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
