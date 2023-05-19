@@ -15,15 +15,20 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.1",
     "mongoose": "^7.1.1",
     "morgan": "^1.10.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2",
+    "sort-by": "^1.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
     "eslint": "^8.40.0",
     "eslint-plugin-react": "latest",
     "eslint-plugin-react-hooks": "^4.6.0",
@@ -31,7 +36,9 @@
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
     "nodemon": "^2.0.22",
+    "postcss": "^8.4.23",
     "prettier": "^2.8.8",
+    "tailwindcss": "^3.3.2",
     "vite": "^4.3.2"
   },
   "installConfig": {
