@@ -45,5 +45,5 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Maulana Imamul Khaq** - *H1D021058* - [maulana1k](https://github.com/maulana1k)
 * **Adhwa Moyafi Hartoyo** - *H1D021069* - [Rollerturtle](https://github.com/Rollerturtle)
-
+* **Septian Aldi Zakaria* - *H1D021032* - [Tiannns](https://github.com/Tiannns)
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
