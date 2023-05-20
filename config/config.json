@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "c6YXolW0hOnJegHoam2V",
+    "database": "railway",
+    "host": "containers-us-west-149.railway.app",
+    "port": 6120,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "c6YXolW0hOnJegHoam2V",
+    "database": "railway",
+    "host": "containers-us-west-149.railway.app",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "c6YXolW0hOnJegHoam2V",
+    "database": "railway",
+    "host": "containers-us-west-149.railway.app",
+    "dialect": "postgres"
+  }
+}
